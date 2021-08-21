@@ -1,0 +1,16 @@
+D:\PYTHON\Interpreter\C#\mc\bin\Debug\net5.0\mc.exe
+D:\PYTHON\Interpreter\C#\mc\bin\Debug\net5.0\mc.deps.json
+D:\PYTHON\Interpreter\C#\mc\bin\Debug\net5.0\mc.runtimeconfig.json
+D:\PYTHON\Interpreter\C#\mc\bin\Debug\net5.0\mc.runtimeconfig.dev.json
+D:\PYTHON\Interpreter\C#\mc\bin\Debug\net5.0\mc.dll
+D:\PYTHON\Interpreter\C#\mc\bin\Debug\net5.0\ref\mc.dll
+D:\PYTHON\Interpreter\C#\mc\bin\Debug\net5.0\mc.pdb
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.csproj.AssemblyReference.cache
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.GeneratedMSBuildEditorConfig.editorconfig
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.AssemblyInfoInputs.cache
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.AssemblyInfo.cs
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.csproj.CoreCompileInputs.cache
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.dll
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\ref\mc.dll
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.pdb
+D:\PYTHON\Interpreter\C#\mc\obj\Debug\net5.0\mc.genruntimeconfig.cache
